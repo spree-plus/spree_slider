@@ -68,7 +68,7 @@ If you desire to have a customized carousel template you can specify your own li
 
 ## Dynamic content management
 
-To add dynamic content, go to the spree admin section, under 'Configuration'
+To add dynamic content, go to the spree admin section, under 'Settings'
 and find the Spree Slider & Spree Slider Locations menu.
 
 You can create new slides and new locations. Then to fetch & render the slider for a particular location you can do the following:
